@@ -1,64 +1,46 @@
 {
   "pensamentos": [
     {
+      "id": 1,
       "conteudo": "Meu Deus é sensacional",
       "autoria": "Sempre com o senhor",
-      "modelo": "modelo2",
-      "id": 8
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
-      "id": 9,
-      "conteudo": "amo eterninha sempre !!!!",
+      "id": 2,
+      "conteudo": "Deus é 1000 !!!!",
       "autoria": "Adriano Ayres",
-      "modelo": "modelo2"
-    },
-    {
-      "conteudo": "amo eterninha",
-      "autoria": "Adriano Ayres palmeira",
-      "modelo": "modelo1",
-      "id": 10
-    },
-    {
-      "conteudo": "Primeiro Crud ",
-      "autoria": "Adriano Ayres palmeira",
-      "modelo": "modelo1",
-      "id": 12
-    },
-    {
-      "conteudo": "novo pagina ",
-      "autoria": "sempre 12",
-      "modelo": "modelo1",
-      "id": 15
-    },
-    {
-      "conteudo": "Primeiro Crud ",
-      "autoria": "Adriano Ayres",
-      "modelo": "modelo1",
-      "id": 16
-    },
-    {
-      "conteudo": "Flamengo",
-      "autoria": "Campeão LA 2022",
       "modelo": "modelo2",
-      "id": 17
+      "favorito": false
     },
     {
-      "conteudo": "Como o contrato com o Dínamo ",
-      "autoria": "também é válido somente até junho de 2023",
-      "modelo": "modelo1",
-      "id": 18
+      "id": 3,
+      "conteudo": "Novo Oriente",
+      "autoria": "Irene Rosa",
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
-      "conteudo": "amo eterninha",
-      "autoria": "Adriano Ayres palmeira",
-      "modelo": "modelo1",
-      "id": 19
+      "id": 4,
+      "conteudo": "Primeiro Crud ",
+      "autoria": "angular 14",
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
-      "conteudo": "O que vc quer",
-      "autoria": "Nada eterninha",
+      "id": 5,
+      "conteudo": "Pai e Mãe",
+      "autoria": "Minha vida...",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "id": 6,
+      "conteudo": "Perigosa",
+      "autoria": "Teste",
       "modelo": "modelo1",
-      "id": 20
+      "favorito": true
     }
   ]
 }

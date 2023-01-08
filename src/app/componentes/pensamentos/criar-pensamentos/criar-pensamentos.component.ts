@@ -26,7 +26,8 @@ export class CriarPensamentosComponent implements OnInit {
         Validators.required,
         Validators.minLength(3)
       ])],
-      modelo: ['']
+      modelo: [''],
+      favorito: [false]
     })
   }
 
